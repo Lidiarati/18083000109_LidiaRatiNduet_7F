@@ -1,0 +1,8 @@
+catatan:
+akses sebagai admin
+Username : lidiarati
+Password : admin
+
+Akses sebagai user
+Username : hilarius123
+Password : pengguna
